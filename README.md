@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tim Purcell  
+- 👋 Hi, I’m Tim Purcell.  
 - 👀 I’m interested in using my analytics skills to help an organization better understand itself, its customers, its competitors, and its market.  
 - 🌱 I’m currently learning SQL and visualization.
-- 📫 How to reach me tpurcell0122@hotmail.com
+- 📫 How to reach me tpurcell0122@hotmail.com.
